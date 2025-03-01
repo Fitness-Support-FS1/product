@@ -8,12 +8,13 @@ assignees: ''
 ---
 
 # User Story
-### Reminders
-- Title of this issue describes the story
-- Stakeholder type is identified ("As a ...")
-- Outcome is described ("I want ...")
-- Rationale is explicit ("So that ...")
-- Acceptance criteria are verifiable and from the perspective of the stakeholder
+<!--  Reminders
+    - Title of this issue describes the story
+    - Stakeholder type is identified ("As a ...")
+    - Outcome is described ("I want ...")
+    - Rationale is explicit ("So that ...")
+    - Acceptance criteria are verifiable and from the perspective of the stakeholder
+-->
 
 ## Story
 **As a**  _stakeholder type_  
